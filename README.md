@@ -19,7 +19,7 @@ El instalador está en la sección **Releases** de este repositorio:
 SHA-256 de `Struct-Link-Plus_v1.0.0_Setup.exe`:
 
 ```
-86d1b9a57057f912256437075e1e37e4120d1760fae9d52a463c0f3c962ec01d
+82fcc9b34f5bcaee68ee3be2afb75bce30c432a9491e15d79fd53f0a8f3ca25a
 ```
 
 En PowerShell: `Get-FileHash .\Struct-Link-Plus_v1.0.0_Setup.exe -Algorithm SHA256`
